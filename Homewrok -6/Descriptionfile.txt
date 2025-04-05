@@ -1,0 +1,18 @@
+
+Veri seti çok büyük olduğu için sıkıştıtlmış halini yolladım.
+Veri setini bu zip dosyasından çıkarıp kaynak kod ile aynı dizin altına koyarsanız model çalışacaktır.
+
+
+stn_code (station code)
+sampling_date (date of sample collection)
+state (Indian State)
+location (location of sample collection)
+agency
+type (type of area)
+so2 (sulphur dioxide concentration)
+no2 (nitrogen dioxide concentration)
+rspm (respirable suspended particualte matter concentration)
+spm (suspended particulate matter)
+location_monitoring_station
+pm2_5 (particulate matter 2.5)
+date
